@@ -321,6 +321,3 @@ alert tcp any any -> any 80 (msg:"HTTP Access"; sid:1000003; rev:1;)
 * Try `nmap`, `ping`, or `curl` to generate traffic
 
 ```
-
-Let me know if you'd like the project zipped or turned into a GitHub-ready repo!
-```
